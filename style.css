@@ -1,0 +1,24 @@
+*{
+			margin: 0;
+			padding: 0;
+		}
+		body{
+			width: 100%;
+			height: 100vh;
+			background: #242526;
+
+		}
+		#t{
+			padding-top: 12%;
+			font-size: 15em;
+			color: #fff	;
+			font-family: 'Varela Round', sans-serif;
+		}
+		#da{
+			color: #545b62;
+			font-family: 'Varela Round', sans-serif;
+			font-size: 2.6em;
+		}
+		h1{
+			text-align: center;
+		}
