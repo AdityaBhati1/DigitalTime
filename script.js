@@ -12,4 +12,4 @@ setInterval(function(){
 
 	document.getElementById('t').innerHTML = hour+":"+minute+":"+second;
 	document.getElementById('da').innerHTML = days[d.getDay()]+ ","+'&nbsp' + date +'&nbsp'+ monthNames[d.getMonth()]+'&nbsp'+year;
-	},1000);
+	},1);
